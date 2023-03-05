@@ -1,0 +1,8 @@
+{
+  "name": "allmyworld",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/uttahb/allmyworld",
+    "ssh": "git@github.com:uttahb/allmyworld.git"
+  }
+}
